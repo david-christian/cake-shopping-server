@@ -3,8 +3,7 @@
 ## Demo
 https://cake-shoping.vercel.app/
 ## Synopsis
-此專案為電商購物網站的後端專案，主要提供功能有會員系統、結帳功能、商品圖片上傳及編輯、庫存及銷售量控管、訂單管理、銷售量統計、購物車系統等等，專案使用 nodejs Express 框架 及 MYSQL 關聯式資料庫，API 開發風格遵  
-循 RESTful API架構規範開發，專案架構以 route 層處理路由，controller 層處理商業邏輯，dao 層處理資料邏輯。
+此專案為電商購物網站的後端專案，主要提供功能有會員系統、結帳功能、商品圖片上傳及編輯、庫存及銷售量控管、訂單管理、銷售量統計、購物車系統等等，專案使用 nodejs Express 框架 及 MYSQL 關聯式資料庫，API 開發風格遵循 RESTful API架構規範開發，專案架構以 route 層處理路由，controller 層處理商業邏輯，dao 層處理資料邏輯。
 ## Technology
 ### nodejs Express
 專案構成語言及語言框架
