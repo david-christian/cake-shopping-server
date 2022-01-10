@@ -10,7 +10,7 @@ https://cake-shoping.vercel.app/
 ### MYSQL
 關聯式資料庫
 ### JSON web token
-僅供練習，會員系統用 JWT 驗證邏輯
+會員系統用 JWT 做驗證
 ### multer
 存取圖片
 ### bcrypt
